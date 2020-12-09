@@ -1,2 +1,3 @@
 # pwa
-Created with CodeSandbox
+
+react pwa template
