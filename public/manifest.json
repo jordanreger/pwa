@@ -1,5 +1,5 @@
 {
-  "short_name": "pwa",
+  "short_name": "pwa template",
   "name": "pwa",
   "icons": [
     {
@@ -10,6 +10,6 @@
   ],
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#212121",
-  "background_color": "#212121"
+  "theme_color": "#000000",
+  "background_color": "#000000"
 }
